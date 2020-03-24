@@ -9,6 +9,3 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias md='mkdir'
 alias rd='rmdir'
-alias shsy='ssh kevin.rose2@syccuxas01.pcc.edu'
-alias stsy='sftp kevin.rose2@syccuxas01.pcc.edu'
-
