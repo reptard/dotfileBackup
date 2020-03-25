@@ -1,0 +1,12 @@
+
+#####TODO######
+
+mkEnv/dotReplace.sh
+	check if old/new dotfiles the same. If same, don't copy.
+	check for r/w permissions on $HOME
+
+mkEnv/pkgCheck
+	check for packages I want ( need to make list )
+	install packages if necessary (may need to do this first e.g. git)
+
+
