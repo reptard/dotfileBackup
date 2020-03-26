@@ -5,7 +5,7 @@ mkdir "$HOME"/dotOld;
 
 
 # check if git is installed
-if [ -x $(command -v git) ]; then
+if [[ -x $(command -v git) ]]; then
 	dotconfs="$HOME/dotfileBackup/dotConfigs"
 	# clone, and check if any errs. If so, exit. Leave files as they be..
 	git clone "https://github.com/reptard/dotfileBackup.git" --quiet;
